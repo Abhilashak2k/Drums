@@ -2,6 +2,6 @@
 
 window.addEventListener('keydown', function(e){
 
-	console.log("yep");
+	console.log("yep");//it enters this function yayy!!ss
 
 });
